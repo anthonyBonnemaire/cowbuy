@@ -4,8 +4,9 @@ subtitle: 'En tant qu''agriculteur, si vous voulez mettre vos produit, c''est pa
 img_path: /images/panier.jpg
 menus:
   secondary:
-    title: S'enregistrer
+    title: Michi-Nordlicht
     weight: 1
+    identifier: Michi-Nordlicht
 template: page
 ---
 Vous avez envie de créer un relation entre vos consommateurs. 
