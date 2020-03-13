@@ -1,7 +1,7 @@
 ---
 title: S'enregistrer
 subtitle: 'En tant qu''agriculteur, si vous voulez mettre vos produit, c''est par ici.'
-img_path: /images/panier.jpeg
+img_path: /images/panier.jpg
 menus:
   secondary:
     title: S'enregistrer
