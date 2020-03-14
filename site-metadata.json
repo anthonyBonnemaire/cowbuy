@@ -8,8 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "S'enregistrer",
-          "url": "/signup"
+          "label": "Prendre Contact",
+          "url": "/contact"
         }
       ]
     }
